@@ -1,0 +1,2 @@
+%In Linux enviroment
+cat pDHSdata_TIGR_model_part1.txt pDHSdata_TIGR_model_part2.txt pDHSdata_TIGR_model_part3.txt pDHSdata_TIGR_model_part4.txt pDHSdata_TIGR_model_part5.txt pDHSdata_TIGR_model_part6.txt >../pDHSdata_TIGR_model.txt
